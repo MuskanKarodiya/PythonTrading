@@ -1,4 +1,5 @@
 pandas
 numpy
-kiteconnect
+Fyers_api library 
+API credentials- API secret key and client id
 schedule
