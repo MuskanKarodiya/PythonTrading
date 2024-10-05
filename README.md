@@ -1,6 +1,6 @@
 # Algorithmic Trading Project
 
-This project aims to create an automated trading algorithm using Zerodha's Kite Connect API. The algorithm fetches stock data, applies a trading strategy, and outputs buy/sell recommendations.
+This project aims to create an automated trading algorithm using Fyers API. The algorithm fetches stock data, applies a trading strategy, and outputs buy/sell recommendations.
 
 ## Project Structure
 - `data/`: Contains stock data files (e.g., CSVs).
