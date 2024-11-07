@@ -1,5 +1,5 @@
 pandas
 numpy
-Fyers_api library 
-API credentials- API secret key and client id
+fyers_api
+API credentials - API secret key and client id
 schedule
